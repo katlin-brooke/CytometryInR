@@ -13,9 +13,9 @@ toc-depth: 5
 [![AGPL-3.0](https://img.shields.io/badge/license-AGPLv3-blue)](https://www.gnu.org/licenses/agpl-3.0.en.html) [![CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
 :::
 
-For screen-shot slides, click [here](/course/00_Floreada/slides.qmd)
+For the YouTube livestream recording, see [here]()
 
-For the YouTube narration, click [here](https://www.youtube.com/@CytometryInR)
+For screen-shot slides, click [here](/course/00_Floreada/slides.qmd)
 
 # Background
 
